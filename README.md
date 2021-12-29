@@ -1,0 +1,2 @@
+# yiqing_springboot_vue_bysj_nb666
+计算机毕业设计之SpringBoot+Vue.js校园疫情防控平台系统 疫情管理系统
